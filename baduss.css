@@ -15,8 +15,7 @@ body{
    
     
 
-    
-
+  
 }
 
 /*for the photos on the Out and About page*/
@@ -114,7 +113,7 @@ body{
     float: right;
   }
   
-  input[type=submit]:hover {
+  button[type=submit]:hover {
     background-color: #45a049;
   }
   
