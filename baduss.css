@@ -113,7 +113,7 @@ body{
     float: right;
   }
   
-  button[type=submit]:hover {
+  button {
     background-color: #45a049;
   }
   
