@@ -5,6 +5,12 @@ body{
 
 }
 
+.pad {
+
+  padding: 50px;
+
+
+}
 /*for the instagram html and index html*/
 .mainBaduss{
 
@@ -74,7 +80,10 @@ body{
     text-decoration: none;
     display: block;
   }
+
   
+
+
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {background-color: #ddd;}
   
@@ -143,4 +152,3 @@ body{
     display: table;
     clear: both;
   }
-  
