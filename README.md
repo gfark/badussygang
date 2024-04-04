@@ -1,1 +1,1 @@
-This contains the code for a low level website where users can shop. If they choose to buy one of these products, they can fill out the form found on the shopping page. This form then sends an email to a corresponding website of the order.
+This contains the code for a website where users can shop. If they choose to buy one of these products, they can fill out the form found on the shopping page. This form then sends an email to a corresponding website of the order.
